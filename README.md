@@ -1,6 +1,8 @@
 ### Hi there, I'm NAHUEL ANDERSCH 👋
 
 
+[Coder](https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif)
+
 
 - :computer: I've completed a 360 hour FRONT END Web Development bootcamp at Ubiqum Code Academy! :scroll:
 - :pencil: I'm learning new things every day 
