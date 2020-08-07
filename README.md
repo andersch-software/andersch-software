@@ -1,5 +1,5 @@
 
-## Hi there, I'm NAHUEL ANDERSCH 👋
+# Hi there, I'm NAHUEL ANDERSCH 👋
 
 
 - :computer: I've completed a 360 hour FRONT END Web Development bootcamp at Ubiqum Code Academy! :scroll:
