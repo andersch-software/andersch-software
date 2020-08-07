@@ -1,3 +1,5 @@
+![dev](https://user-images.githubusercontent.com/69023039/89677575-11150000-d8c4-11ea-99f6-4b982253f839.jpg)
+
 
 # Hi there, I'm NAHUEL ANDERSCH 👋
 
@@ -30,8 +32,6 @@ Languages and Tools:
 :white_square_button: FireBase
 
 :white_square_button: Jquery
-
-
 
 
 
